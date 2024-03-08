@@ -8,7 +8,7 @@ I am a student at IIIT Bhubaneswar in a BTech course on Computer Engineering . I
 
 * 🌍  I'm based in Bhubaneswar,Odisha,India
 * ✉️  You can contact me at [subhambeura20@gmail.com](mailto:subhambeura20@gmail.com)
-* 🧠  I'm learning Rust
+* 🧠  I'm learning Go
 * 🤝  I'm open to collaborating on MERN stack projects
 
 ### Skills
