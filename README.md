@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a student at IIIT Bhubaneswar in a BTech course on Computer Engineering . I have a passion for devlopement and programing in general.
+I am a student at IIIT Bhubaneswar in a BTech course on Computer Engineering . I have a passion for devlopement and programming in general.
 
 * 🌍  I'm based in Bhubaneswar,Odisha,India
 * ✉️  You can contact me at [subhambeura20@gmail.com](mailto:subhambeura20@gmail.com)
